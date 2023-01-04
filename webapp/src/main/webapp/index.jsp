@@ -10,7 +10,7 @@
     <br>
 
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Nick Name" name="Nick NAme" id="Nick Name" required>
+    <input type="text" placeholder="Enter Email" name="Nick NAme" id="Nick Name" required>
     <br>
 
     <label for="mobile"><b>Enter mobile</b></label>
