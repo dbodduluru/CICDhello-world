@@ -9,7 +9,7 @@
     <br>
     <br>
 
-    <label for="email"><b>Enter Nick Name</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Nick Name" name="Nick NAme" id="Nick Name" required>
     <br>
 
